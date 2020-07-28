@@ -1,0 +1,52 @@
+.victime {
+	display: flex;
+	justify-content: space-around;
+}
+
+.partager,.témoignages { 
+	width:40%;
+}
+
+body {
+	background-color : #0f0f0f ;
+	color : white ;
+}
+
+h3{
+	color : #23de55;
+	font-family: "Gill Sans", sans-serif ;
+}
+
+a{
+	color: #7f28fa;
+}
+
+h2{
+	color: #ffd4d8 ;
+	font-family : "Gill", sans-serif;
+}
+
+textarea{
+	width:100%;
+	background-color: #28282b;
+	color: white ;
+	border-radius : #28282b;
+	border-color : #28282b;
+	font-weight: 100px ;
+}
+
+hr{
+	color: #7f28fa;
+}
+
+text{
+	text-align: right;
+}
+video{
+	width:100%;
+}
+
+p{
+	text-indent: 5em;
+	font-family: "Goudy Bookletter 1911", sans-serif;
+}
